@@ -1,4 +1,4 @@
 # Food-Fight-Capstone
-Small 2-D adventure game using Unity and C#. Control a chef who defeats enemies such as tomatoes and carrots!
 
-My first major programming project!
+This repository showcases some of the scripts used in the creation of my first game with Unity.
+There is a focus on persistent values between scene transitions and multiple collision handlers for different projectiles.
